@@ -1,0 +1,50 @@
+body{
+    margin:0px;
+}
+
+div.widget{
+    width:400px;
+}
+
+div.widget > ul{
+    padding:0px;
+    margin:0px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul ul{
+    width: 80%;
+}
+
+li{
+    border-top: 1px solid #CCCCCC;
+    padding-left: 10px;
+    padding: 5px;
+    color:#333333;
+    background-color:#ffffff;
+}
+
+.focus{
+    color:yellow;
+    background-color:#333333 !important;
+}
+
+.red{
+    background-color:red;
+    color:#ffffff;
+}
+
+.blue{
+    background-color:blue;
+    color:#ffffff;
+
+}
+
+.green{
+    background-color:green;
+    color:#ffffff;
+
+}

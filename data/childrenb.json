@@ -1,0 +1,22 @@
+[
+    {
+        "label": "nodeB_child1",
+        "color": "red"
+    },
+    {
+        "label": "nodeB_child2",
+        "color": "blue"
+    },
+    {
+        "label": "nodeB_child3",
+        "color": "green"
+    },
+    {
+        "label": "nodeB_child4",
+        "color": "red"
+    },
+    {
+        "label": "nodeB_childn",
+        "color": "blue"
+    }
+]

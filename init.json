@@ -1,0 +1,52 @@
+[
+    {
+        "label": "nodeA",
+        "color": "green",
+        "childrenURL": "../js-tree/data/children.json"
+    },
+    {
+        "label": "nodeB",
+        "color": "red",
+        "childrenURL": "../js-tree/data/childrenb.json"
+
+    },
+    {
+        "label": "nodeC",
+        "color": "blue",
+        "nodes": [
+            {
+                "label": "nodeC_child1",
+                "color": "green",
+                "nodes": [
+                    {
+                        "label": "C1a"
+                    },
+                    {
+                        "label": "C1b"
+                    }
+
+                ]
+            },
+            {
+                "label": "nodeC_childn",
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "label": "nodeD",
+        "color": "green"
+    },
+    {
+        "label": "nodeE",
+        "color": "red",
+        "nodes": [
+            {
+                "label": "nodeE_child1"
+            },
+            {
+                "label": "nodeE_childn"
+            }
+        ]
+    }
+]

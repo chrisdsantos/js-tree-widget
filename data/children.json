@@ -1,0 +1,10 @@
+[
+    {
+        "label": "nodeA_child1",
+        "color": "red"
+    },
+    {
+        "label": "nodeA_childn",
+        "color": "blue"
+    }
+]
